@@ -61,6 +61,8 @@ dll/
 # IDE #
 .idea/
 *.swp
+**/.idea/workspace.xml
+.idea/workspace.xml
 
 
 # Angular #
